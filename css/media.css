@@ -223,7 +223,8 @@
     .footer__title{
         margin: 20px 0;
     }
-    .catalog__card::before{
+    .catalog__card::before,
+.catalog__card:nth-child(7)::before{
         padding: 10px;
     }
     .card__text{
